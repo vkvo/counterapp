@@ -1,0 +1,29 @@
+{
+	"name": "counterapp",
+	"version": "1.0.0",
+	"description":
+		"A simple web counter app with interval settings - allowing users to start counter with 5 or more different intervals i.e. 50 minutes, then 10 minutes, etc. continuously",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vkvo/counterapp.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vkvo/counterapp/issues"
+	},
+	"homepage": "https://github.com/vkvo/counterapp#readme",
+	"dependencies": {
+		"next": "^6.1.1",
+		"react": "^16.4.1",
+		"react-dom": "^16.4.1"
+	},
+	"scripts": {
+		"dev": "next"
+	}
+}
